@@ -39,18 +39,6 @@ A merge conflict can happen when Git cannot combine changes automatically. I am 
 
 Some of the practice files may still contain text from these exercises. A successful merge command does not replace checking the actual file contents.
 
-## Lessons from feedback
-
-My mentor pointed out a few things to improve:
-
-- Keep macOS system files out of the repo.
-- Make commit messages short and specific.
-- Describe the change that was actually made. Adding text to a practice file is not the same as building a dark mode interface.
-- Use a consistent Git author name and email so commits link to the right GitHub account.
-- Explain the purpose of the repo in a README.
-
-I have added an ignore rule for `.DS_Store`, set a GitHub-linked author identity for this repo, and corrected the misleading dark mode commit message. Some earlier messages are still vague, so they are a reminder of what I need to do better in future commits.
-
 ## What I want to get more comfortable with
 
 I want to keep practising branches, checking changes before committing, and resolving conflicts carefully. The aim is to understand what each command does and build good habits as I learn.
