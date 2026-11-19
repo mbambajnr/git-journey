@@ -38,7 +38,3 @@ I use branches to try changes away from the main branch, then practise bringing 
 A merge conflict can happen when Git cannot combine changes automatically. I am learning to read both versions, decide what the file should contain, remove the conflict markers, and check the result before committing.
 
 Some of the practice files may still contain text from these exercises. A successful merge command does not replace checking the actual file contents.
-
-## What I want to get more comfortable with
-
-I want to keep practising branches, checking changes before committing, and resolving conflicts carefully. The aim is to understand what each command does and build good habits as I learn.
